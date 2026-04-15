@@ -1,4 +1,4 @@
-name: Deployment Exercise
+name: Deployment Exercise 1
 on: push
 jobs:
     deploy:
